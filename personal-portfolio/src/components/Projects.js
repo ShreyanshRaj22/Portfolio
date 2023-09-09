@@ -1,7 +1,7 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/img1.png";
-import projImg2 from "../assets/img/img4.png";
+import projImg2 from "../assets/img/img2.png";
 import projImg3 from "../assets/img/img3.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import './animate.css';
@@ -11,18 +11,18 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Food App",
+      description: "MERN Stack App",
       imgUrl: projImg1,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Portfolio",
+      description: "FrontEnd Project",
       imgUrl: projImg2,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Alumni Website",
+      description: "College Website",
       imgUrl: projImg3,
     },
     
