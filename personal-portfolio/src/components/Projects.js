@@ -14,16 +14,19 @@ export const Projects = () => {
       title: "Food App",
       description: "MERN Stack App",
       imgUrl: projImg1,
+      siteUrl: "https://food-app-delta-six.vercel.app/",
     },
     {
       title: "Portfolio",
       description: "FrontEnd Project",
       imgUrl: projImg2,
+      siteUrl: "https://shreyanshraj.vercel.app/",
     },
     {
       title: "Alumni Website",
       description: "College Website",
       imgUrl: projImg3,
+      siteUrl: "https://github.com/ShreyanshRaj22/Alumni-Cell-New",
     },
     
   ];
